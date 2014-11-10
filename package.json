@@ -1,0 +1,43 @@
+{
+  "name": "ember-cli-data-factory-guy",
+  "version": "0.1.0",
+  "description": "Include ember-data-factory-guy into an ember-cli application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/cristinawithout/ember-cli-data-factory-guy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cristinawithout/ember-cli-data-factory-guy"
+  },
+  "bugs": {
+    "url": "https://github.com/cristinawithout/ember-cli-data-factory-guy/issues"
+  },
+  "keywords": [
+    "ember-addon",
+    "ember-data",
+    "qunit"
+  ],
+  "ember-addon": {
+    "main": "lib/ember-addon/index.js"
+  },
+  "files": [
+    "lib/ember-addon"
+  ],
+  "author": {
+    "name": "Cristina Hanes"
+  },
+  "maintainers": [
+    {
+      "name": "cristinawithout",
+      "email": "cristina8bit@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "~1.3",
+    "ember-cli": "0.0.43",
+    "ember-data": "^1.0.0"
+  }
+}
