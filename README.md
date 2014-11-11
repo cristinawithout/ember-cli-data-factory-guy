@@ -9,5 +9,5 @@ ember-cli-data-factory-guy is a wrapper around ember-data-factory-guy for ember-
 
 To install, run:
 
- `npm install ember-cli-data-factory-guy`
- `ember g ember-cli-data-factory-guy`
+- `npm install ember-cli-data-factory-guy`
+- `bower install ember-data-factory-guy` or `ember g ember-cli-data-factory-guy`
