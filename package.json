@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-data-factory-guy",
   "version": "0.7.0",
-  "description": "Include ember-data-factory-guy into an ember-cli application.",
+  "description": "Include ember-data-factory-guy into an ember-cli application for jquery-mockjax stub endpoints on ember-data models.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,8 @@
   "keywords": [
     "ember-addon",
     "ember-data",
-    "qunit"
+    "qunit",
+    "jquery-mockjax"
   ],
   "ember-addon": {
     "main": "lib/ember-addon/index.js"
