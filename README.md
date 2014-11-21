@@ -10,6 +10,6 @@ ember-cli.
 
 To install, run:
 
-- `npm install ember-cli-data-factory-guy`
+- `npm install --save-dev ember-cli-data-factory-guy`
 - `ember g ember-cli-data-factory-guy` to install ember-data-factory-guy and add
 its predefined variables to tests/.jshintrc
