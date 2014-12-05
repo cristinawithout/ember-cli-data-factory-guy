@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-data-factory-guy",
-  "version": "0.7.2",
+  "version": "0.8.4",
   "description": "Include ember-data-factory-guy into an ember-cli application for jquery-mockjax stub endpoints on ember-data models.",
   "main": "index.js",
   "scripts": {
