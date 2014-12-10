@@ -17,4 +17,4 @@ To install, run:
 
 In your test files, use `import FactoryGuy from 'factory-guy'` to get the main `FactoryGuy` object. You'll need that object in order to create factories by calling `FactoryGuy.define`.
 
-Use `import testMixin from 'factory-guy'` to get the test mixin, which you can use instead of `FactoryGuyTestMixin` when following the [FactoryGuyTestMixin usage instructions](https://github.com/danielspaniel/ember-data-factory-guy#using-factoryguytestmixin).
+Use `import { testMixin as FactoryGuyTestMixin } from 'factory-guy';` to get the test mixin, and then follow the [FactoryGuyTestMixin usage instructions](https://github.com/danielspaniel/ember-data-factory-guy#using-factoryguytestmixin).
