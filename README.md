@@ -11,7 +11,7 @@ ember-cli.
 To install, run:
 
 - `npm install --save-dev ember-cli-data-factory-guy`
-- `ember g ember-cli-data-factory-guy` to install ember-data-factory-guy as a bower package and add its predefined variables to tests/.jshintrc
+- `ember g ember-cli-data-factory-guy` to install ember-data-factory-guy as a bower package.
 
 ## Usage
 
