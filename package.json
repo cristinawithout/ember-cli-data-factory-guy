@@ -21,6 +21,7 @@
     "jquery-mockjax",
     "test"
   ],
+  "main": "lib/ember-addon/index.js",
   "ember-addon": {
     "main": "lib/ember-addon/index.js"
   },
