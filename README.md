@@ -1,16 +1,22 @@
 ember-cli-data-factory-guy
 ===========
 
-*NOTICE*
+**DEPRECATION NOTICE**
 
 ember-data-factory-guy is now an ember addon, so this package is deprecated.
+
+For Ember Data 1.0.0-beta.16.1+ and Ember 1.11.0+, use ember-data-factory-guy v1.0.2 or higher.
+
 To install ember-data-factory-guy as an addon check the documentation: [FactoryGuy installation instructions](https://github.com/danielspaniel/ember-data-factory-guy#installation).
 
+====================================
+====================================
+
+The instructions below are how to use the deprecated ember-cli-data-factory-guy.
 
 ## About
 
-ember-cli-data-factory-guy is a wrapper around ember-data-factory-guy for
-ember-cli.
+ember-cli-data-factory-guy is a wrapper around ember-data-factory-guy for ember-cli.
 
 ## Install
 
